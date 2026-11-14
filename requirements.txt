@@ -1,8 +1,26 @@
-streamlit
-pandas
-requests
-plotly
-numpy
+init
+schema
+sources
+config
+db
+logutil
+firms_client
+synthetic
+raw_store
+planner
+ingest
+cleaning
+pipeline
+derived
+quality
+exports
+runner
+cli
+helpers
+test_cleaning
+test_pipeline
+test_ingest
+test_derived_exports
 
 
 
@@ -14,17 +32,26 @@ numpy
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Add requirements
-Add project dependencies
+add init
+add schema
+add sources
+add config
+add db
+add logutil
+add firms_client
+add synthetic
+add raw_store
+add planner
+add ingest
+add cleaning
+add pipeline
+add derived
+add quality
+add exports
+add runner
+add cli
+add helpers
+add test_cleaning
+add test_pipeline
+add test_ingest
+add test_derived_exports
