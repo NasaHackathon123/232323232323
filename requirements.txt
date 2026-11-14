@@ -1,0 +1,30 @@
+streamlit
+pandas
+requests
+plotly
+numpy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add requirements
+Add project dependencies
