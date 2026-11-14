@@ -778,3 +778,12 @@ EMBERWATCH_HTML = """
 """
 
 components.html(EMBERWATCH_HTML, height=950, scrolling=True)
+
+st.markdown("---")
+st.markdown("### 🔥 EmberWatch System Status")
+col1, col2, col3 = st.columns(3)
+col1.metric("Satellite Sources", "5", "Active")
+col2.metric("Data Processing", "Online", "Operational")
+col3.metric("Monitoring Region", "Southeast Asia")
+st.caption("Developed for NASA Space Apps Challenge 2026.")
+st.caption("Data reference: NASA FIRMS | MODIS | VIIRS")
